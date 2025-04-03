@@ -6,8 +6,8 @@ const CountCharacter = () => {
 
     return(
         <div>
-            <textarea className="text1" placeholder="type something" value={character} onChange={(e) => setCharacter(e.target.value)}></textarea>
-            <h1>character = {character.length}</h1>
+            <textarea className="text-count" placeholder="type something" value={character} onChange={(e) => setCharacter(e.target.value)}></textarea>
+            <h1 className="character-count">character = {character.length}</h1>
         </div>
     )
 }

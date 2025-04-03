@@ -1,4 +1,4 @@
-[![Project Banner](./src//images/)](https://character-counter-eight-pi.vercel.app/)
+[![Project Banner](./src//images/readme-project-banner-01.png)](https://character-counter-eight-pi.vercel.app/)
 ---
 # 🚀 **Counter Display App**  
 > _A website where a user can upload their essay or any docunemnt in text format, and the website will count characters in your document._
@@ -40,6 +40,7 @@
 ![Preview](./src/images/project-gif.gif)
 
 ---
+
 
 ## 🤝 **Contributing**
 We welcome PRs! 🎉 
